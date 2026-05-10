@@ -1,0 +1,51 @@
+<svg width="500" height="262" xmlns="http://www.w3.org/2000/svg">
+      <style>
+        .bg { fill: #0d1117; }
+        .title { font: bold 20px 'Segoe UI', Arial; fill: #58a6ff; }
+        .label { font: 12px 'Segoe UI', Arial; fill: #8b949e; }
+        .value { font: bold 14px 'Segoe UI', Arial; fill: #c9d1d9; }
+        .divider { stroke: #30363d; stroke-width: 1; }
+        .border { stroke: #30363d; stroke-width: 1; fill: none; }
+      </style>
+
+      <!-- Background -->
+      <rect class="bg" width="500" height="310"/>
+      <rect class="border" width="500" height="310"/>
+
+      <!-- Title -->
+      <text class="title" x="20" y="35">GitHub Stats</text>
+
+      <!-- Divider under title -->
+      <line class="divider" x1="20" y1="48" x2="480" y2="48"/>
+
+      <!-- Total Commits -->
+      <text class="label" x="20" y="72">total commits in past year</text>
+      <text class="value" x="20" y="90">652</text>
+
+      <!-- Stars Earned -->
+      <text class="label" x="20" y="118">stars earned</text>
+      <text class="value" x="20" y="136">10</text>
+
+      <!-- Repositories -->
+      <text class="label" x="240" y="72">repositories contributed to in past year</text>
+      <text class="value" x="240" y="90">49</text>
+
+      <!-- Organizations -->
+      <text class="label" x="240" y="118">organizations</text>
+      <text class="value" x="240" y="136">10</text>
+
+      <!-- Divider above top repos -->
+      <line class="divider" x1="20" y1="155" x2="480" y2="155"/>
+
+      <!-- Top Repositories -->
+      <text class="label" x="20" y="174">top repositories</text>
+      <line class="divider" x1="235" y1="158" x2="235" y2="248" stroke-dasharray="3,3"/>
+      <text class="value" x="30" y="192" font-size="12">astro-otter/otter <tspan fill="#e3b341">(3 ★)</tspan></text>
+  <text class="value" x="30" y="212" font-size="12">astro-trove/trove <tspan fill="#e3b341">(2 ★)</tspan></text>
+  <text class="value" x="30" y="232" font-size="12">noahfranz13/cv <tspan fill="#e3b341">(1 ★)</tspan></text>
+  <text class="value" x="245" y="192" font-size="12">ua-astro-grads/arxiv-mailer <tspan fill="#e3b341">(1 ★)</tspan></text>
+  <text class="value" x="245" y="212" font-size="12">astro-otter/otter-web <tspan fill="#e3b341">(1 ★)</tspan></text>
+
+      <!-- Last Updated -->
+      <text class="label" x="480" y="252" font-size="10" text-anchor="end">Updated: 2026-05-09</text>
+    </svg>

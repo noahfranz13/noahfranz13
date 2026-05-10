@@ -7,6 +7,7 @@ domain science. To learn more about my projects, checkout [my website](https://n
 of the repositories below!
 
 <!-- GITHUB-STATS:START -->
+![GitHub Stats](./.github/profile-stats.svg)
 <!-- GITHUB-STATS:END -->
 
 ![](https://komarev.com/ghpvc/?username=noahfranz13&style=pixel)
