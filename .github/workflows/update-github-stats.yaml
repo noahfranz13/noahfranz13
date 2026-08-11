@@ -28,7 +28,7 @@ jobs:
       
       - name: Fetch and update stats
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.STATS_GITHUB_TOKEN }}
           GITHUB_ACTOR: noahfranz13
         run: python3 github_stats.py
       
