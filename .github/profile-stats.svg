@@ -20,11 +20,11 @@
 
       <!-- Total Commits -->
       <text class="label" x="20" y="72">total commits in past year</text>
-      <text class="value" x="20" y="90">723</text>
+      <text class="value" x="20" y="90">722</text>
 
       <!-- Stars Earned -->
       <text class="label" x="20" y="118">stars earned</text>
-      <text class="value" x="20" y="136">16</text>
+      <text class="value" x="20" y="136">17</text>
 
       <!-- Repositories -->
       <text class="label" x="240" y="72">repositories contributed to in past year</text>
@@ -40,13 +40,13 @@
       <!-- Top Repositories -->
       <text class="label" x="20" y="174">top repositories</text>
       <line class="divider" x1="235" y1="158" x2="235" y2="248" stroke-dasharray="3,3"/>
-      <text class="value" x="30" y="192" font-size="12">astro-otter/otter <tspan fill="#e3b341">(4 ★)</tspan></text>
-  <text class="value" x="30" y="212" font-size="12">ua-astro-grads/arxiv-mailer <tspan fill="#e3b341">(3 ★)</tspan></text>
+      <text class="value" x="30" y="192" font-size="12">ua-astro-grads/arxiv-mailer <tspan fill="#e3b341">(4 ★)</tspan></text>
+  <text class="value" x="30" y="212" font-size="12">astro-otter/otter <tspan fill="#e3b341">(4 ★)</tspan></text>
   <text class="value" x="30" y="232" font-size="12">astro-trove/trove <tspan fill="#e3b341">(2 ★)</tspan></text>
   <text class="value" x="245" y="192" font-size="12">noahfranz13/cv <tspan fill="#e3b341">(1 ★)</tspan></text>
   <text class="value" x="245" y="212" font-size="12">astro-otter/otter-web <tspan fill="#e3b341">(1 ★)</tspan></text>
   <text class="value" x="245" y="232" font-size="12">alexander-group/convert_flux <tspan fill="#e3b341">(1 ★)</tspan></text>
 
       <!-- Last Updated -->
-      <text class="label" x="480" y="252" font-size="10" text-anchor="end">Updated: 2026-09-11</text>
+      <text class="label" x="480" y="252" font-size="10" text-anchor="end">Updated: 2026-09-12</text>
     </svg>
